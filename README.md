@@ -22,3 +22,4 @@
 20. [P20 strncat_s](notes/020-strncat_s.md)
 21. [P21 gets_s](notes/021-gets_s.md)
 22. [P22 strtok_s](notes/022-strtok_s.md)
+23. [P23 strcmp](notes/023-strcmp.md)
