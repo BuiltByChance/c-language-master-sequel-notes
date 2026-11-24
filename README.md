@@ -69,3 +69,4 @@
 67. [P67 用 malloc 创建游戏角色，防止内存泄漏](notes/067-malloc%E4%B8%8E%E7%BB%93%E6%9E%84%E4%BD%93%E7%9A%84%E4%BD%BF%E7%94%A8%E4%BB%A5%E5%8F%8A%E9%98%B2%E6%AD%A2%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F.md)
 68. [P68 用 calloc 创建初值为零的任务列表](notes/068-calloc%E5%87%BD%E6%95%B0.md)
 69. [P69 多级指针](notes/069-%E5%A4%9A%E7%BA%A7%E6%8C%87%E9%92%88.md)
+70. [P70 多级指针的用途](notes/070-%E5%A4%9A%E7%BA%A7%E6%8C%87%E9%92%88%E7%9A%84%E7%94%A8%E9%80%94.md)
