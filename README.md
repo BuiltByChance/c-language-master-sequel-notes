@@ -13,3 +13,4 @@
 11. [P11 第 09 章节结束语](notes/011-%E7%AC%AC09%E7%AB%A0%E8%8A%82%E7%BB%93%E6%9D%9F%E8%AF%AD.md)
 12. [P12 字符串](notes/012-%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 13. [P13 strcpy_s 的用法](notes/013-strcpy_s%E7%9A%84%E7%94%A8%E6%B3%95.md)
+14. [P14 选修（难、非入门）——VS 编译器捕获字符串异常](notes/014-%E9%80%89%E4%BF%AE%28%E9%9A%BE%E3%80%81%E9%9D%9E%E5%85%A5%E9%97%A8%29%EF%BC%9AVS%E7%BC%96%E8%AF%91%E5%99%A8%E6%8D%95%E8%8E%B7%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%BC%82%E5%B8%B8.md)
