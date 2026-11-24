@@ -17,3 +17,4 @@
 15. [P15 strlen](notes/015-strlen.md)
 16. [P16 strcat_s](notes/016-strcat_s.md)
 17. [P17 修补——更正 strcat_s 的容量参数](notes/017-%E4%BF%AE%E8%A1%A5.md)
+18. [P18 sprintf_s](notes/018-sprintf_s.md)
