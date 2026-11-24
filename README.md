@@ -52,3 +52,4 @@
 50. [P50 数学与时间函数的章节导读](notes/050-%E7%AB%A0%E8%8A%82%E5%BC%80%E5%A4%B4.md)
 51. [P51 怎样查阅 math.h](notes/051-math.h%E5%A4%B4%E6%96%87%E4%BB%B6%E7%9A%84%E6%A6%82%E8%BF%B0.md)
 52. [P52 三角函数与 M_PI](notes/052-%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E4%B8%8EM_PI.md)
+53. [P53 双曲函数](notes/053-%E5%8F%8C%E6%9B%B2%E5%87%BD%E6%95%B0.md)
