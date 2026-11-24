@@ -9,3 +9,4 @@
 7. [P7 嵌套结构体](notes/007-%E5%B5%8C%E5%A5%97%E7%BB%93%E6%9E%84%E4%BD%93.md)
 8. [P8 Enumeration 枚举](notes/008-Enumeration%E6%9E%9A%E4%B8%BE.md)
 9. [P9 Union 联合](notes/009-Union%E8%81%94%E5%90%88.md)
+10. [P10 游戏设计：结构体、枚举、联合与多文件编程](notes/010-%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%EF%BC%9A%E7%BB%93%E6%9E%84%E4%BD%93%E3%80%81%E6%9E%9A%E4%B8%BE%E3%80%81%E8%81%94%E5%90%88%E4%B8%8E%E5%A4%9A%E6%96%87%E4%BB%B6%E7%BC%96%E7%A8%8B.md)
