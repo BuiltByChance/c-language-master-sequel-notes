@@ -76,3 +76,4 @@
 74. [P74 案例：动态数据结构的管理](notes/074-%E5%8A%A8%E6%80%81%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%9A%84%E7%AE%A1%E7%90%86.md)
 75. [P75 Function Pointer 函数指针的概念](notes/075-%E5%87%BD%E6%95%B0%E6%8C%87%E9%92%88%E7%9A%84%E6%A6%82%E5%BF%B5.md)
 76. [P76 再探 typedef](notes/076-%E5%86%8D%E6%8E%A2typedef.md)
+77. [P77 练习：函数指针用途](notes/077-%E7%BB%83%E4%B9%A0-%E5%87%BD%E6%95%B0%E6%8C%87%E9%92%88%E7%94%A8%E9%80%94.md)
