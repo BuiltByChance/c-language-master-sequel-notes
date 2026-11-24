@@ -32,3 +32,4 @@
 30. [P30 第 10 章结束语](notes/030-%E7%AC%AC10%E7%AB%A0%E7%BB%93%E6%9D%9F%E8%AF%AD.md)
 31. [P31 输入输出初步认识](notes/031-%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E5%88%9D%E6%AD%A5%E8%AE%A4%E8%AF%86.md)
 32. [P32 复习 scanf_s](notes/032-%E5%A4%8D%E4%B9%A0scanf_s.md)
+33. [P33 scanf_s 返回值](notes/033-scanf_s%E8%BF%94%E5%9B%9E%E5%80%BC.md)
