@@ -88,3 +88,4 @@
 86. [P86 闲聊休息](notes/086-%E9%97%B2%E8%81%8A%E4%BC%91%E6%81%AF.md)
 87. [P87 指针的作用域和生命周期](notes/087-%E6%8C%87%E9%92%88%E7%9A%84%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md)
 88. [P88 悬挂指针（dangling pointer）](notes/088-%E6%82%AC%E6%8C%82%E6%8C%87%E9%92%88Dangling%20pointer.md)
+89. [P89 可变参数函数（variadic function）](notes/089-%E5%8F%AF%E5%8F%98%E5%8F%82%E6%95%B0Variadic%20function%20final.md)
