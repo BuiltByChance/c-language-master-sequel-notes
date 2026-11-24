@@ -34,3 +34,4 @@
 32. [P32 复习 scanf_s](notes/032-%E5%A4%8D%E4%B9%A0scanf_s.md)
 33. [P33 scanf_s 返回值](notes/033-scanf_s%E8%BF%94%E5%9B%9E%E5%80%BC.md)
 34. [P34 stream 流的概述](notes/034-stream%E6%B5%81%E7%9A%84%E6%A6%82%E8%BF%B0.md)
+35. [P35 用 fopen_s 打开文件，用 fgets 和 fgetc 读取](notes/035-fopen_s%2C%20fgetc%2C%20fgets%2C%20fclose%E8%AF%BB%E5%8F%96r%E6%A8%A1%E5%BC%8F.md)
