@@ -91,3 +91,4 @@
 89. [P89 可变参数函数（variadic function）](notes/089-%E5%8F%AF%E5%8F%98%E5%8F%82%E6%95%B0Variadic%20function%20final.md)
 90. [P90 练习：自定义日志函数](notes/090-%E7%BB%83%E4%B9%A0-%E8%87%AA%E5%AE%9A%E4%B9%89%E6%97%A5%E5%BF%97%E5%87%BD%E6%95%B0.md)
 91. [P91 assert 断言](notes/091-assert%E6%96%AD%E8%A8%80.md)
+92. [P92 用断言调试：最大值、图像尺寸与折扣](notes/092-%E6%96%AD%E8%A8%80%E7%9A%84debug%E4%B8%8E%E7%BB%83%E4%B9%A0.md)
