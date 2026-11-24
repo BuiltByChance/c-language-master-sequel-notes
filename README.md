@@ -38,3 +38,4 @@
 36. [P36 用 fputs、fputc 和 w 模式写文件](notes/036-fputs%2Cfputc%E4%B8%8Ew%E6%A8%A1%E5%BC%8F.md)
 37. [P37 用 ftell、fseek 和 rewind 查询、改变文件位置](notes/037-ftell%2Cfseek%2Crewind.md)
 38. [P38 用 fscanf_s 从文件读取格式化数据](notes/038-fscanf_s.md)
+39. [P39 用 fprintf 把一条记录写成文本](notes/039-fprintf.md)
