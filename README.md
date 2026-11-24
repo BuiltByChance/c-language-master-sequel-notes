@@ -89,3 +89,4 @@
 87. [P87 指针的作用域和生命周期](notes/087-%E6%8C%87%E9%92%88%E7%9A%84%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md)
 88. [P88 悬挂指针（dangling pointer）](notes/088-%E6%82%AC%E6%8C%82%E6%8C%87%E9%92%88Dangling%20pointer.md)
 89. [P89 可变参数函数（variadic function）](notes/089-%E5%8F%AF%E5%8F%98%E5%8F%82%E6%95%B0Variadic%20function%20final.md)
+90. [P90 练习：自定义日志函数](notes/090-%E7%BB%83%E4%B9%A0-%E8%87%AA%E5%AE%9A%E4%B9%89%E6%97%A5%E5%BF%97%E5%87%BD%E6%95%B0.md)
