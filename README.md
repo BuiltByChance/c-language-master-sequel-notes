@@ -48,3 +48,4 @@
 46. [P46 用 fflush 刷新输出流](notes/046-fflush%E7%AE%80%E5%8D%95%E7%95%A5%E8%BF%87.md)
 47. [P47 游戏设置的二进制存储与读取](notes/047-%E6%B8%B8%E6%88%8F%E8%AE%BE%E7%BD%AE%E7%9A%84%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AD%98%E5%82%A8%E4%B8%8E%E8%AF%BB%E5%8F%96.md)
 48. [P48 分块复制文件](notes/048-%E5%A4%8D%E5%88%B6%E6%96%87%E4%BB%B6.md)
+49. [P49 第 11 章结束语](notes/049-%E7%AC%AC11%E7%AB%A0%E7%BB%93%E6%9D%9F%E8%AF%AD.md)
