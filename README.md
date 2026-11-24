@@ -29,3 +29,4 @@
 27. [P27 strspn 与 strcspn](notes/027-strspn%E4%B8%8Estrcspn.md)
 28. [P28 再次废话——用指针修改和遍历字符串](notes/028-%E5%86%8D%E6%AC%A1%E5%BA%9F%E8%AF%9D.md)
 29. [P29 案例（略难）——用 string.h 替换和统计文本](notes/029-%E6%A1%88%E4%BE%8B%28%E7%95%A5%E9%9A%BE%29%EF%BC%9A%E5%85%B3%E4%BA%8Estring.h.md)
+30. [P30 第 10 章结束语](notes/030-%E7%AC%AC10%E7%AB%A0%E7%BB%93%E6%9D%9F%E8%AF%AD.md)
