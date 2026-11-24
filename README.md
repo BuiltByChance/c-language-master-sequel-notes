@@ -7,3 +7,4 @@
 5. [P5 值语义初始化结构体变量](notes/005-%E5%80%BC%E8%AF%AD%E4%B9%89%E5%88%9D%E5%A7%8B%E5%8C%96%E7%BB%93%E6%9E%84%E4%BD%93%E5%8F%98%E9%87%8F.md)
 6. [P6 结构体数组](notes/006-%E7%BB%93%E6%9E%84%E4%BD%93%E6%95%B0%E7%BB%84.md)
 7. [P7 嵌套结构体](notes/007-%E5%B5%8C%E5%A5%97%E7%BB%93%E6%9E%84%E4%BD%93.md)
+8. [P8 Enumeration 枚举](notes/008-Enumeration%E6%9E%9A%E4%B8%BE.md)
