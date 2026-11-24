@@ -25,3 +25,4 @@
 23. [P23 strcmp](notes/023-strcmp.md)
 24. [P24 strncmp](notes/024-strncmp.md)
 25. [P25 strchr 与 strrchr](notes/025-strchr%E4%B8%8Estrrchr.md)
+26. [P26 strstr](notes/026-strstr.md)
