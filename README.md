@@ -33,3 +33,4 @@
 31. [P31 输入输出初步认识](notes/031-%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E5%88%9D%E6%AD%A5%E8%AE%A4%E8%AF%86.md)
 32. [P32 复习 scanf_s](notes/032-%E5%A4%8D%E4%B9%A0scanf_s.md)
 33. [P33 scanf_s 返回值](notes/033-scanf_s%E8%BF%94%E5%9B%9E%E5%80%BC.md)
+34. [P34 stream 流的概述](notes/034-stream%E6%B5%81%E7%9A%84%E6%A6%82%E8%BF%B0.md)
