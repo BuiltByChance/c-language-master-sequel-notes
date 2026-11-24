@@ -24,3 +24,4 @@
 22. [P22 strtok_s](notes/022-strtok_s.md)
 23. [P23 strcmp](notes/023-strcmp.md)
 24. [P24 strncmp](notes/024-strncmp.md)
+25. [P25 strchr 与 strrchr](notes/025-strchr%E4%B8%8Estrrchr.md)
