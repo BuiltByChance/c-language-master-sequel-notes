@@ -77,3 +77,4 @@
 75. [P75 Function Pointer 函数指针的概念](notes/075-%E5%87%BD%E6%95%B0%E6%8C%87%E9%92%88%E7%9A%84%E6%A6%82%E5%BF%B5.md)
 76. [P76 再探 typedef](notes/076-%E5%86%8D%E6%8E%A2typedef.md)
 77. [P77 练习：函数指针用途](notes/077-%E7%BB%83%E4%B9%A0-%E5%87%BD%E6%95%B0%E6%8C%87%E9%92%88%E7%94%A8%E9%80%94.md)
+78. [P78 函数指针与 callback 回调函数的作用](notes/078-%E5%87%BD%E6%95%B0%E6%8C%87%E9%92%88%E4%B8%8Ecallback%E5%9B%9E%E8%B0%83%E5%87%BD%E6%95%B0%E7%9A%84%E4%BD%9C%E7%94%A8.md)
