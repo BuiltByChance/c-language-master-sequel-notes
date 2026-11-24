@@ -36,3 +36,4 @@
 34. [P34 stream 流的概述](notes/034-stream%E6%B5%81%E7%9A%84%E6%A6%82%E8%BF%B0.md)
 35. [P35 用 fopen_s 打开文件，用 fgets 和 fgetc 读取](notes/035-fopen_s%2C%20fgetc%2C%20fgets%2C%20fclose%E8%AF%BB%E5%8F%96r%E6%A8%A1%E5%BC%8F.md)
 36. [P36 用 fputs、fputc 和 w 模式写文件](notes/036-fputs%2Cfputc%E4%B8%8Ew%E6%A8%A1%E5%BC%8F.md)
+37. [P37 用 ftell、fseek 和 rewind 查询、改变文件位置](notes/037-ftell%2Cfseek%2Crewind.md)
