@@ -46,3 +46,4 @@
 44. [P44 用 r+ 模式修改日志记录](notes/044-%E7%94%A8r%E5%8A%A0%E6%A8%A1%E5%BC%8F%E4%BF%AE%E6%94%B9%E6%97%A5%E5%BF%97%E8%AE%B0%E5%BD%95.md)
 45. [P45 用临时文件替换一条日志](notes/045-%E4%B8%B4%E6%97%B6%E6%96%87%E4%BB%B6%E7%9A%84%E6%96%B9%E6%A1%88.md)
 46. [P46 用 fflush 刷新输出流](notes/046-fflush%E7%AE%80%E5%8D%95%E7%95%A5%E8%BF%87.md)
+47. [P47 游戏设置的二进制存储与读取](notes/047-%E6%B8%B8%E6%88%8F%E8%AE%BE%E7%BD%AE%E7%9A%84%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AD%98%E5%82%A8%E4%B8%8E%E8%AF%BB%E5%8F%96.md)
