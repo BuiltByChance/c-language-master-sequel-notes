@@ -20,3 +20,4 @@
 18. [P18 sprintf_s](notes/018-sprintf_s.md)
 19. [P19 strncpy_s](notes/019-strncpy_s.md)
 20. [P20 strncat_s](notes/020-strncat_s.md)
+21. [P21 gets_s](notes/021-gets_s.md)
