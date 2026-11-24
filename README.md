@@ -15,3 +15,4 @@
 13. [P13 strcpy_s 的用法](notes/013-strcpy_s%E7%9A%84%E7%94%A8%E6%B3%95.md)
 14. [P14 选修（难、非入门）——VS 编译器捕获字符串异常](notes/014-%E9%80%89%E4%BF%AE%28%E9%9A%BE%E3%80%81%E9%9D%9E%E5%85%A5%E9%97%A8%29%EF%BC%9AVS%E7%BC%96%E8%AF%91%E5%99%A8%E6%8D%95%E8%8E%B7%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%BC%82%E5%B8%B8.md)
 15. [P15 strlen](notes/015-strlen.md)
+16. [P16 strcat_s](notes/016-strcat_s.md)
