@@ -42,3 +42,4 @@
 40. [P40 用 ferror、feof 和 clearerr 判断文件读取状态](notes/040-ferror%2Cfeof%2Cclearerr.md)
 41. [P41 抽离读写函数](notes/041-%E6%8A%BD%E7%A6%BB%E8%AF%BB%E5%86%99%E5%87%BD%E6%95%B0.md)
 42. [P42 用 a 模式追加日志](notes/042-a%E6%A8%A1%E5%BC%8F%E8%BF%BD%E5%8A%A0.md)
+43. [P43 用 w 模式清空文件](notes/043-w%E6%A8%A1%E5%BC%8F%E6%B8%85%E7%A9%BA.md)
