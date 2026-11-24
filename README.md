@@ -12,3 +12,4 @@
 10. [P10 游戏设计：结构体、枚举、联合与多文件编程](notes/010-%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%EF%BC%9A%E7%BB%93%E6%9E%84%E4%BD%93%E3%80%81%E6%9E%9A%E4%B8%BE%E3%80%81%E8%81%94%E5%90%88%E4%B8%8E%E5%A4%9A%E6%96%87%E4%BB%B6%E7%BC%96%E7%A8%8B.md)
 11. [P11 第 09 章节结束语](notes/011-%E7%AC%AC09%E7%AB%A0%E8%8A%82%E7%BB%93%E6%9D%9F%E8%AF%AD.md)
 12. [P12 字符串](notes/012-%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+13. [P13 strcpy_s 的用法](notes/013-strcpy_s%E7%9A%84%E7%94%A8%E6%B3%95.md)
