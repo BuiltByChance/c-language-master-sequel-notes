@@ -39,3 +39,4 @@
 37. [P37 用 ftell、fseek 和 rewind 查询、改变文件位置](notes/037-ftell%2Cfseek%2Crewind.md)
 38. [P38 用 fscanf_s 从文件读取格式化数据](notes/038-fscanf_s.md)
 39. [P39 用 fprintf 把一条记录写成文本](notes/039-fprintf.md)
+40. [P40 用 ferror、feof 和 clearerr 判断文件读取状态](notes/040-ferror%2Cfeof%2Cclearerr.md)
