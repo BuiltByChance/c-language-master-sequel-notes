@@ -90,3 +90,4 @@
 88. [P88 悬挂指针（dangling pointer）](notes/088-%E6%82%AC%E6%8C%82%E6%8C%87%E9%92%88Dangling%20pointer.md)
 89. [P89 可变参数函数（variadic function）](notes/089-%E5%8F%AF%E5%8F%98%E5%8F%82%E6%95%B0Variadic%20function%20final.md)
 90. [P90 练习：自定义日志函数](notes/090-%E7%BB%83%E4%B9%A0-%E8%87%AA%E5%AE%9A%E4%B9%89%E6%97%A5%E5%BF%97%E5%87%BD%E6%95%B0.md)
+91. [P91 assert 断言](notes/091-assert%E6%96%AD%E8%A8%80.md)
