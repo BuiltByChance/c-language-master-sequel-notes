@@ -27,3 +27,4 @@
 25. [P25 strchr 与 strrchr](notes/025-strchr%E4%B8%8Estrrchr.md)
 26. [P26 strstr](notes/026-strstr.md)
 27. [P27 strspn 与 strcspn](notes/027-strspn%E4%B8%8Estrcspn.md)
+28. [P28 再次废话——用指针修改和遍历字符串](notes/028-%E5%86%8D%E6%AC%A1%E5%BA%9F%E8%AF%9D.md)
